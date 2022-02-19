@@ -5,8 +5,7 @@
 - 🌍 I'm mostly active within the **Flutter Community**&nbsp;
 
 ## ⚡ GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=glavigno&show_icons=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glavigno&layout=compact&count_private=true" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=glavigno&show_icons=true&count_private=true" />&nbsp;
 
 ## 📫 Reach me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumelavignotte)
