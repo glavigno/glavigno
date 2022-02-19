@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi I'm Guillaume 👋
 
-<!--
-**glavigno/glavigno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at **MoneyTrack** as a Lead frontend developer
+- 🌱 I’m currently learning DDD and Blockchain development
+- 🌍 I'm mostly active within the **Flutter Community**&nbsp;
 
-Here are some ideas to get you started:
+## ⚡ GitHub Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=glavigno&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glavigno&layout=compact&count_private=true" />&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumelavignotte)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12107390/glavigno)
+[![Twitter badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/glavignotte94)
