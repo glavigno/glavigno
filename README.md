@@ -4,9 +4,6 @@
 - 🌱 I’m currently learning **DDD** and **Blockchain development**
 - 🌍 I'm mostly active within the **Flutter Community**&nbsp;
 
-## ⚡ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=glavigno&show_icons=true&count_private=true" />&nbsp;
-
 ## 📫 Reach me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumelavignotte)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12107390/glavigno)
