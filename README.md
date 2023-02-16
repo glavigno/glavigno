@@ -1,7 +1,6 @@
 ## Hi I'm Guillaume
 
-- 🔭 I’m currently working at **MoneyTrack** as a Lead frontend developer
-- 🌱 I’m currently learning **Blockchain development**
+- 🔭 I’m currently working at **MoneyTrack** as a Lead developer
 - 🌍 I'm mostly active within the **Flutter Community**&nbsp;
 
 ## Reach me
